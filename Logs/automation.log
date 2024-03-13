@@ -1,0 +1,854 @@
+03/06/2024 01:39:21 PM: INFO: **TC#1**
+03/06/2024 01:39:21 PM: INFO: **Passed**
+03/06/2024 01:39:22 PM: INFO: **TC#2**
+03/06/2024 01:39:24 PM: ERROR: **Passed**
+03/06/2024 01:39:37 PM: INFO: **TC#1**
+03/06/2024 01:39:38 PM: INFO: **Passed**
+03/06/2024 01:39:39 PM: INFO: **TC#2**
+03/06/2024 01:39:40 PM: ERROR: **Passed**
+03/06/2024 02:07:48 PM: INFO: **TC#1**
+03/06/2024 02:07:48 PM: INFO: **Verifying home page title**
+03/06/2024 02:07:48 PM: INFO: **Passed**
+03/06/2024 02:07:49 PM: INFO: **Verify user ia able to login successfully**
+03/06/2024 02:07:51 PM: INFO: **Passed**
+03/06/2024 02:20:18 PM: INFO: #######TC#1########
+03/06/2024 02:20:18 PM: INFO: **Verifying home page title**
+03/06/2024 02:20:19 PM: INFO: **Passed**
+03/06/2024 02:20:20 PM: INFO: **Verify user is able to login successfully**
+03/06/2024 02:20:22 PM: INFO: **Passed**
+03/06/2024 02:20:37 PM: INFO: #######TC#1########
+03/06/2024 02:20:37 PM: INFO: **Verifying home page title**
+03/06/2024 02:20:39 PM: INFO: **Passed**
+03/06/2024 02:20:40 PM: INFO: **Verify user is able to login successfully**
+03/06/2024 02:20:43 PM: INFO: **Passed**
+03/06/2024 02:36:04 PM: INFO: **Verify user is able to login successfully**
+03/06/2024 02:36:04 PM: INFO: #######TC#1########
+03/06/2024 02:36:04 PM: INFO: **Verifying home page title**
+03/06/2024 02:36:06 PM: INFO: **Passed**
+03/06/2024 02:36:06 PM: INFO: **Passed**
+03/06/2024 03:04:45 PM: INFO: #######TC#1########
+03/06/2024 03:04:45 PM: INFO: **Verifying home page title**
+03/06/2024 03:04:45 PM: INFO: **Verify user is able to login successfully**
+03/06/2024 03:04:46 PM: INFO: **Passed**
+03/06/2024 03:04:47 PM: INFO: **Passed**
+03/11/2024 04:13:33 PM: INFO: #######TC#1########
+03/11/2024 04:13:33 PM: INFO: **Test001 : Verifying home page title**
+03/11/2024 04:13:35 PM: INFO: **Passed**
+03/11/2024 04:13:35 PM: INFO: **Test002 : Verify user is able to login successfully**
+03/11/2024 04:13:37 PM: INFO: **Passed**
+03/11/2024 04:15:28 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:15:30 PM: INFO: **Login successful**
+03/11/2024 04:15:30 PM: INFO: __Add Customer Test started__
+03/11/2024 04:17:17 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:17:20 PM: INFO: **Login successful**
+03/11/2024 04:17:20 PM: INFO: __Add Customer Test started__
+03/11/2024 04:19:12 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:19:13 PM: INFO: **Login successful**
+03/11/2024 04:19:13 PM: INFO: __Add Customer Test started__
+03/11/2024 04:19:44 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:19:46 PM: INFO: **Login successful**
+03/11/2024 04:19:46 PM: INFO: __Add Customer Test started__
+03/11/2024 04:28:15 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:28:18 PM: INFO: **Login successful**
+03/11/2024 04:28:18 PM: INFO: __Add Customer Test started__
+03/11/2024 04:31:17 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:31:19 PM: INFO: **Login successful**
+03/11/2024 04:31:19 PM: INFO: __Add Customer Test started__
+03/11/2024 04:42:05 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:42:07 PM: INFO: **Login successful**
+03/11/2024 04:42:07 PM: INFO: __Add Customer Test started__
+03/11/2024 04:46:37 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:46:38 PM: INFO: **Login successful**
+03/11/2024 04:46:38 PM: INFO: __Add Customer Test started__
+03/11/2024 04:50:25 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:50:27 PM: INFO: **Login successful**
+03/11/2024 04:50:27 PM: INFO: __Add Customer Test started__
+03/11/2024 04:50:27 PM: INFO: __Menu to be Clicked__
+03/11/2024 04:50:27 PM: INFO: __Menu Clicked__
+03/11/2024 04:52:39 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:52:41 PM: INFO: **Login successful**
+03/11/2024 04:52:41 PM: INFO: __Add Customer Test started__
+03/11/2024 04:52:41 PM: INFO: __Menu to be Clicked__
+03/11/2024 04:52:41 PM: INFO: __Menu Clicked__
+03/11/2024 04:52:44 PM: INFO: __Adding customer info__
+03/11/2024 04:55:05 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:55:07 PM: INFO: **Login successful**
+03/11/2024 04:55:07 PM: INFO: __Add Customer Test started__
+03/11/2024 04:55:07 PM: INFO: __Menu to be Clicked__
+03/11/2024 04:55:07 PM: INFO: __Menu Clicked__
+03/11/2024 04:56:49 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:56:51 PM: INFO: **Login successful**
+03/11/2024 04:56:51 PM: INFO: __Add Customer Test started__
+03/11/2024 04:56:51 PM: INFO: __Menu to be Clicked__
+03/11/2024 04:56:51 PM: INFO: __Menu Clicked__
+03/11/2024 04:56:53 PM: INFO: __Menu Item Clicked__
+03/11/2024 04:56:53 PM: INFO: __add new Clicked__
+03/11/2024 04:56:54 PM: INFO: __Adding customer info__
+03/11/2024 04:57:15 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:57:16 PM: INFO: **Login successful**
+03/11/2024 04:57:16 PM: INFO: __Add Customer Test started__
+03/11/2024 04:57:16 PM: INFO: __Menu to be Clicked__
+03/11/2024 04:57:17 PM: INFO: __Menu Clicked__
+03/11/2024 04:57:18 PM: INFO: __Menu Item Clicked__
+03/11/2024 04:57:19 PM: INFO: __add new Clicked__
+03/11/2024 04:57:20 PM: INFO: __Adding customer info__
+03/11/2024 04:59:41 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 04:59:43 PM: INFO: **Login successful**
+03/11/2024 04:59:43 PM: INFO: __Add Customer Test started__
+03/11/2024 04:59:43 PM: INFO: __Menu to be Clicked__
+03/11/2024 04:59:43 PM: INFO: __Menu Clicked__
+03/11/2024 05:00:07 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 05:00:09 PM: INFO: **Login successful**
+03/11/2024 05:00:10 PM: INFO: __Add Customer Test started__
+03/11/2024 05:00:10 PM: INFO: __Menu to be Clicked__
+03/11/2024 05:00:10 PM: INFO: __Menu Clicked__
+03/11/2024 05:00:12 PM: INFO: __Menu Item Clicked__
+03/11/2024 05:00:12 PM: INFO: __add new Clicked__
+03/11/2024 05:00:13 PM: INFO: __Adding customer info__
+03/11/2024 05:01:17 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 05:01:18 PM: INFO: **Login successful**
+03/11/2024 05:01:19 PM: INFO: __Add Customer Test started__
+03/11/2024 05:01:19 PM: INFO: __Menu to be Clicked__
+03/11/2024 05:01:19 PM: INFO: __Menu Clicked__
+03/11/2024 05:01:21 PM: INFO: __Menu Item Clicked__
+03/11/2024 05:01:21 PM: INFO: __add new Clicked__
+03/11/2024 05:01:22 PM: INFO: __Adding customer info__
+03/11/2024 05:01:22 PM: INFO: __Added email__
+03/11/2024 05:01:22 PM: INFO: __Added pwrd
+03/11/2024 05:01:22 PM: INFO: __Added name
+03/11/2024 05:01:22 PM: INFO: __Added surname
+03/11/2024 05:01:22 PM: INFO: __Added gender__
+03/11/2024 05:05:03 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 05:05:05 PM: INFO: **Login successful**
+03/11/2024 05:05:06 PM: INFO: __Add Customer Test started__
+03/11/2024 05:05:06 PM: INFO: __Menu to be Clicked__
+03/11/2024 05:05:06 PM: INFO: __Menu Clicked__
+03/11/2024 05:05:07 PM: INFO: __Menu Item Clicked__
+03/11/2024 05:05:08 PM: INFO: __add new Clicked__
+03/11/2024 05:05:09 PM: INFO: __Adding customer info__
+03/11/2024 05:05:09 PM: INFO: __Added email__
+03/11/2024 05:05:09 PM: INFO: __Added pwrd
+03/11/2024 05:05:09 PM: INFO: __Added name
+03/11/2024 05:05:09 PM: INFO: __Added surname
+03/11/2024 05:05:09 PM: INFO: __Added gender__
+03/11/2024 05:06:04 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 05:06:06 PM: INFO: **Login successful**
+03/11/2024 05:06:07 PM: INFO: __Add Customer Test started__
+03/11/2024 05:06:07 PM: INFO: __Menu to be Clicked__
+03/11/2024 05:06:07 PM: INFO: __Menu Clicked__
+03/11/2024 05:06:09 PM: INFO: __Menu Item Clicked__
+03/11/2024 05:06:09 PM: INFO: __add new Clicked__
+03/11/2024 05:06:10 PM: INFO: __Adding customer info__
+03/11/2024 05:06:10 PM: INFO: __Added email__
+03/11/2024 05:06:10 PM: INFO: __Added pwrd
+03/11/2024 05:06:10 PM: INFO: __Added name
+03/11/2024 05:06:10 PM: INFO: __Added surname
+03/11/2024 05:06:10 PM: INFO: __Added gender__
+03/11/2024 05:06:51 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 05:06:53 PM: INFO: **Login successful**
+03/11/2024 05:06:54 PM: INFO: __Add Customer Test started__
+03/11/2024 05:06:54 PM: INFO: __Menu to be Clicked__
+03/11/2024 05:06:54 PM: INFO: __Menu Clicked__
+03/11/2024 05:06:55 PM: INFO: __Menu Item Clicked__
+03/11/2024 05:06:56 PM: INFO: __add new Clicked__
+03/11/2024 05:06:57 PM: INFO: __Adding customer info__
+03/11/2024 05:06:57 PM: INFO: __Added email__
+03/11/2024 05:06:57 PM: INFO: __Added pwrd
+03/11/2024 05:06:57 PM: INFO: __Added name
+03/11/2024 05:06:57 PM: INFO: __Added surname
+03/11/2024 05:06:57 PM: INFO: __Added gender__
+03/11/2024 05:11:27 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 05:11:29 PM: INFO: **Login successful**
+03/11/2024 05:11:30 PM: INFO: __Add Customer Test started__
+03/11/2024 05:11:30 PM: INFO: __Menu to be Clicked__
+03/11/2024 05:11:30 PM: INFO: __Menu Clicked__
+03/11/2024 05:11:31 PM: INFO: __Menu Item Clicked__
+03/11/2024 05:11:32 PM: INFO: __add new Clicked__
+03/11/2024 05:11:33 PM: INFO: __Adding customer info__
+03/11/2024 05:11:33 PM: INFO: __Added email__
+03/11/2024 05:11:33 PM: INFO: __Added pwrd
+03/11/2024 05:11:33 PM: INFO: __Added name
+03/11/2024 05:11:33 PM: INFO: __Added surname
+03/11/2024 05:11:33 PM: INFO: __Added gender__
+03/11/2024 05:11:33 PM: INFO: __Added date__
+03/11/2024 05:11:33 PM: INFO: __Added company__
+03/11/2024 11:47:36 PM: INFO: **Test003 : Verifying Add Customer functionality
+03/11/2024 11:47:38 PM: INFO: **Login successful**
+03/11/2024 11:47:39 PM: INFO: __Add Customer Test started__
+03/11/2024 11:47:39 PM: INFO: __Menu to be Clicked__
+03/11/2024 11:47:39 PM: INFO: __Menu Clicked__
+03/11/2024 11:47:41 PM: INFO: __Menu Item Clicked__
+03/11/2024 11:47:41 PM: INFO: __add new Clicked__
+03/11/2024 11:47:42 PM: INFO: __Adding customer info__
+03/11/2024 11:47:42 PM: INFO: __Added email__
+03/11/2024 11:47:42 PM: INFO: __Added pwrd
+03/11/2024 11:47:42 PM: INFO: __Added name
+03/11/2024 11:47:42 PM: INFO: __Added surname
+03/11/2024 11:47:42 PM: INFO: __Added gender__
+03/11/2024 11:47:42 PM: INFO: __Added date__
+03/11/2024 11:47:42 PM: INFO: __Added company__
+03/12/2024 12:00:27 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:00:29 AM: INFO: **Login successful**
+03/12/2024 12:00:30 AM: INFO: __Add Customer Test started__
+03/12/2024 12:00:30 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:00:30 AM: INFO: __Menu Clicked__
+03/12/2024 12:00:31 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:00:32 AM: INFO: __add new Clicked__
+03/12/2024 12:00:33 AM: INFO: __Adding customer info__
+03/12/2024 12:00:33 AM: INFO: __Added email__
+03/12/2024 12:00:33 AM: INFO: __Added pwrd
+03/12/2024 12:00:33 AM: INFO: __Added name
+03/12/2024 12:00:33 AM: INFO: __Added surname
+03/12/2024 12:00:33 AM: INFO: __Added gender__
+03/12/2024 12:00:33 AM: INFO: __Added date__
+03/12/2024 12:00:33 AM: INFO: __Added company__
+03/12/2024 12:00:58 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:01:00 AM: INFO: **Login successful**
+03/12/2024 12:01:01 AM: INFO: __Add Customer Test started__
+03/12/2024 12:01:01 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:01:01 AM: INFO: __Menu Clicked__
+03/12/2024 12:01:03 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:01:03 AM: INFO: __add new Clicked__
+03/12/2024 12:01:04 AM: INFO: __Adding customer info__
+03/12/2024 12:01:04 AM: INFO: __Added email__
+03/12/2024 12:01:04 AM: INFO: __Added pwrd
+03/12/2024 12:01:04 AM: INFO: __Added name
+03/12/2024 12:01:04 AM: INFO: __Added surname
+03/12/2024 12:01:04 AM: INFO: __Added gender__
+03/12/2024 12:01:04 AM: INFO: __Added date__
+03/12/2024 12:01:04 AM: INFO: __Added company__
+03/12/2024 12:02:54 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:02:55 AM: INFO: **Login successful**
+03/12/2024 12:02:56 AM: INFO: __Add Customer Test started__
+03/12/2024 12:02:56 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:02:56 AM: INFO: __Menu Clicked__
+03/12/2024 12:02:58 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:02:58 AM: INFO: __add new Clicked__
+03/12/2024 12:02:59 AM: INFO: __Adding customer info__
+03/12/2024 12:02:59 AM: INFO: __Added email__
+03/12/2024 12:02:59 AM: INFO: __Added pwrd
+03/12/2024 12:02:59 AM: INFO: __Added name
+03/12/2024 12:02:59 AM: INFO: __Added surname
+03/12/2024 12:02:59 AM: INFO: __Added gender__
+03/12/2024 12:02:59 AM: INFO: __Added date__
+03/12/2024 12:02:59 AM: INFO: __Added company__
+03/12/2024 12:06:36 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:06:38 AM: INFO: **Login successful**
+03/12/2024 12:06:39 AM: INFO: __Add Customer Test started__
+03/12/2024 12:06:39 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:06:39 AM: INFO: __Menu Clicked__
+03/12/2024 12:06:40 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:06:40 AM: INFO: __add new Clicked__
+03/12/2024 12:06:41 AM: INFO: __Adding customer info__
+03/12/2024 12:06:41 AM: INFO: __Added email__
+03/12/2024 12:06:41 AM: INFO: __Added pwrd
+03/12/2024 12:06:41 AM: INFO: __Added name
+03/12/2024 12:06:41 AM: INFO: __Added surname
+03/12/2024 12:06:41 AM: INFO: __Added gender__
+03/12/2024 12:06:41 AM: INFO: __Added date__
+03/12/2024 12:06:42 AM: INFO: __Added company__
+03/12/2024 12:07:15 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:07:16 AM: INFO: **Login successful**
+03/12/2024 12:07:17 AM: INFO: __Add Customer Test started__
+03/12/2024 12:07:17 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:07:18 AM: INFO: __Menu Clicked__
+03/12/2024 12:07:19 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:07:19 AM: INFO: __add new Clicked__
+03/12/2024 12:07:20 AM: INFO: __Adding customer info__
+03/12/2024 12:07:20 AM: INFO: __Added email__
+03/12/2024 12:07:20 AM: INFO: __Added pwrd
+03/12/2024 12:07:20 AM: INFO: __Added name
+03/12/2024 12:07:20 AM: INFO: __Added surname
+03/12/2024 12:07:20 AM: INFO: __Added gender__
+03/12/2024 12:07:20 AM: INFO: __Added date__
+03/12/2024 12:07:20 AM: INFO: __Added company__
+03/12/2024 12:07:20 AM: INFO: __Added role__
+03/12/2024 12:08:00 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:08:02 AM: INFO: **Login successful**
+03/12/2024 12:08:03 AM: INFO: __Add Customer Test started__
+03/12/2024 12:08:03 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:08:03 AM: INFO: __Menu Clicked__
+03/12/2024 12:08:04 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:08:05 AM: INFO: __add new Clicked__
+03/12/2024 12:08:06 AM: INFO: __Adding customer info__
+03/12/2024 12:08:06 AM: INFO: __Added email__
+03/12/2024 12:08:06 AM: INFO: __Added pwrd
+03/12/2024 12:08:06 AM: INFO: __Added name
+03/12/2024 12:08:06 AM: INFO: __Added surname
+03/12/2024 12:08:06 AM: INFO: __Added gender__
+03/12/2024 12:08:06 AM: INFO: __Added date__
+03/12/2024 12:08:06 AM: INFO: __Added company__
+03/12/2024 12:13:14 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:13:16 AM: INFO: **Login successful**
+03/12/2024 12:13:17 AM: INFO: __Add Customer Test started__
+03/12/2024 12:13:17 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:13:17 AM: INFO: __Menu Clicked__
+03/12/2024 12:13:18 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:13:19 AM: INFO: __add new Clicked__
+03/12/2024 12:13:20 AM: INFO: __Adding customer info__
+03/12/2024 12:13:20 AM: INFO: __Added email__
+03/12/2024 12:13:20 AM: INFO: __Added pwrd
+03/12/2024 12:13:20 AM: INFO: __Added name
+03/12/2024 12:13:20 AM: INFO: __Added surname
+03/12/2024 12:13:20 AM: INFO: __Added gender__
+03/12/2024 12:13:20 AM: INFO: __Added date__
+03/12/2024 12:13:20 AM: INFO: __Added company__
+03/12/2024 12:13:20 AM: INFO: __Added vendor__
+03/12/2024 12:18:25 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:18:27 AM: INFO: **Login successful**
+03/12/2024 12:18:28 AM: INFO: __Add Customer Test started__
+03/12/2024 12:18:28 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:18:28 AM: INFO: __Menu Clicked__
+03/12/2024 12:18:29 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:18:30 AM: INFO: __add new Clicked__
+03/12/2024 12:18:31 AM: INFO: __Adding customer info__
+03/12/2024 12:18:31 AM: INFO: __Added email__
+03/12/2024 12:18:31 AM: INFO: __Added pwrd
+03/12/2024 12:18:31 AM: INFO: __Added name
+03/12/2024 12:18:31 AM: INFO: __Added surname
+03/12/2024 12:18:31 AM: INFO: __Added gender__
+03/12/2024 12:18:31 AM: INFO: __Added date__
+03/12/2024 12:18:31 AM: INFO: __Added company__
+03/12/2024 12:18:31 AM: INFO: __Added vendor__
+03/12/2024 12:20:52 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:20:54 AM: INFO: **Login successful**
+03/12/2024 12:20:55 AM: INFO: __Add Customer Test started__
+03/12/2024 12:20:55 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:20:55 AM: INFO: __Menu Clicked__
+03/12/2024 12:20:56 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:20:56 AM: INFO: __add new Clicked__
+03/12/2024 12:20:57 AM: INFO: __Adding customer info__
+03/12/2024 12:20:57 AM: INFO: __Added email__
+03/12/2024 12:20:57 AM: INFO: __Added pwrd
+03/12/2024 12:20:57 AM: INFO: __Added name
+03/12/2024 12:20:57 AM: INFO: __Added surname
+03/12/2024 12:20:58 AM: INFO: __Added gender__
+03/12/2024 12:20:58 AM: INFO: __Added date__
+03/12/2024 12:20:58 AM: INFO: __Added company__
+03/12/2024 12:20:58 AM: INFO: __Added vendor__
+03/12/2024 12:24:21 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:24:23 AM: INFO: **Login successful**
+03/12/2024 12:24:24 AM: INFO: __Add Customer Test started__
+03/12/2024 12:24:24 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:24:24 AM: INFO: __Menu Clicked__
+03/12/2024 12:24:25 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:24:26 AM: INFO: __add new Clicked__
+03/12/2024 12:24:27 AM: INFO: __Adding customer info__
+03/12/2024 12:24:27 AM: INFO: __Added email__
+03/12/2024 12:24:27 AM: INFO: __Added pwrd
+03/12/2024 12:24:27 AM: INFO: __Added name
+03/12/2024 12:24:27 AM: INFO: __Added surname
+03/12/2024 12:24:27 AM: INFO: __Added gender__
+03/12/2024 12:24:27 AM: INFO: __Added date__
+03/12/2024 12:24:27 AM: INFO: __Added company__
+03/12/2024 12:24:27 AM: INFO: __Added vendor__
+03/12/2024 12:24:53 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:24:54 AM: INFO: **Login successful**
+03/12/2024 12:24:55 AM: INFO: __Add Customer Test started__
+03/12/2024 12:24:55 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:24:55 AM: INFO: __Menu Clicked__
+03/12/2024 12:24:57 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:24:57 AM: INFO: __add new Clicked__
+03/12/2024 12:24:58 AM: INFO: __Adding customer info__
+03/12/2024 12:24:58 AM: INFO: __Added email__
+03/12/2024 12:24:58 AM: INFO: __Added pwrd
+03/12/2024 12:24:58 AM: INFO: __Added name
+03/12/2024 12:24:58 AM: INFO: __Added surname
+03/12/2024 12:24:58 AM: INFO: __Added gender__
+03/12/2024 12:24:58 AM: INFO: __Added date__
+03/12/2024 12:24:58 AM: INFO: __Added company__
+03/12/2024 12:24:58 AM: INFO: __Added vendor__
+03/12/2024 12:25:23 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:25:24 AM: INFO: **Login successful**
+03/12/2024 12:25:25 AM: INFO: __Add Customer Test started__
+03/12/2024 12:25:25 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:25:25 AM: INFO: __Menu Clicked__
+03/12/2024 12:25:27 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:25:27 AM: INFO: __add new Clicked__
+03/12/2024 12:25:28 AM: INFO: __Adding customer info__
+03/12/2024 12:25:28 AM: INFO: __Added email__
+03/12/2024 12:25:28 AM: INFO: __Added pwrd
+03/12/2024 12:25:28 AM: INFO: __Added name
+03/12/2024 12:25:28 AM: INFO: __Added surname
+03/12/2024 12:25:28 AM: INFO: __Added gender__
+03/12/2024 12:25:28 AM: INFO: __Added date__
+03/12/2024 12:25:28 AM: INFO: __Added company__
+03/12/2024 12:25:28 AM: INFO: __Added vendor__
+03/12/2024 12:30:53 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:30:55 AM: INFO: **Login successful**
+03/12/2024 12:30:56 AM: INFO: __Add Customer Test started__
+03/12/2024 12:30:56 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:30:56 AM: INFO: __Menu Clicked__
+03/12/2024 12:30:58 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:30:58 AM: INFO: __add new Clicked__
+03/12/2024 12:30:59 AM: INFO: __Adding customer info__
+03/12/2024 12:30:59 AM: INFO: __Added email__
+03/12/2024 12:30:59 AM: INFO: __Added pwrd
+03/12/2024 12:30:59 AM: INFO: __Added name
+03/12/2024 12:30:59 AM: INFO: __Added surname
+03/12/2024 12:30:59 AM: INFO: __Added gender__
+03/12/2024 12:30:59 AM: INFO: __Added date__
+03/12/2024 12:30:59 AM: INFO: __Added company__
+03/12/2024 12:30:59 AM: INFO: __Added vendor__
+03/12/2024 12:32:36 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:32:38 AM: INFO: **Login successful**
+03/12/2024 12:32:39 AM: INFO: __Add Customer Test started__
+03/12/2024 12:32:39 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:32:39 AM: INFO: __Menu Clicked__
+03/12/2024 12:32:40 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:32:41 AM: INFO: __add new Clicked__
+03/12/2024 12:32:42 AM: INFO: __Adding customer info__
+03/12/2024 12:32:42 AM: INFO: __Added email__
+03/12/2024 12:32:42 AM: INFO: __Added pwrd
+03/12/2024 12:32:42 AM: INFO: __Added name
+03/12/2024 12:32:42 AM: INFO: __Added surname
+03/12/2024 12:32:42 AM: INFO: __Added gender__
+03/12/2024 12:32:42 AM: INFO: __Added date__
+03/12/2024 12:32:42 AM: INFO: __Added company__
+03/12/2024 12:32:42 AM: INFO: __Added vendor__
+03/12/2024 12:33:29 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:33:31 AM: INFO: **Login successful**
+03/12/2024 12:33:32 AM: INFO: __Add Customer Test started__
+03/12/2024 12:33:32 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:33:32 AM: INFO: __Menu Clicked__
+03/12/2024 12:33:33 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:33:34 AM: INFO: __add new Clicked__
+03/12/2024 12:33:35 AM: INFO: __Adding customer info__
+03/12/2024 12:33:35 AM: INFO: __Added email__
+03/12/2024 12:33:35 AM: INFO: __Added pwrd
+03/12/2024 12:33:35 AM: INFO: __Added name
+03/12/2024 12:33:35 AM: INFO: __Added surname
+03/12/2024 12:33:35 AM: INFO: __Added gender__
+03/12/2024 12:33:35 AM: INFO: __Added date__
+03/12/2024 12:33:35 AM: INFO: __Added company__
+03/12/2024 12:33:35 AM: INFO: __Added vendor__
+03/12/2024 12:34:09 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:34:11 AM: INFO: **Login successful**
+03/12/2024 12:34:12 AM: INFO: __Add Customer Test started__
+03/12/2024 12:34:12 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:34:12 AM: INFO: __Menu Clicked__
+03/12/2024 12:34:13 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:34:14 AM: INFO: __add new Clicked__
+03/12/2024 12:34:15 AM: INFO: __Adding customer info__
+03/12/2024 12:34:15 AM: INFO: __Added email__
+03/12/2024 12:34:15 AM: INFO: __Added pwrd
+03/12/2024 12:34:15 AM: INFO: __Added name
+03/12/2024 12:34:15 AM: INFO: __Added surname
+03/12/2024 12:34:15 AM: INFO: __Added gender__
+03/12/2024 12:34:15 AM: INFO: __Added date__
+03/12/2024 12:34:15 AM: INFO: __Added company__
+03/12/2024 12:34:15 AM: INFO: __Added vendor__
+03/12/2024 12:36:29 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:36:30 AM: INFO: **Login successful**
+03/12/2024 12:36:31 AM: INFO: __Add Customer Test started__
+03/12/2024 12:36:31 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:36:31 AM: INFO: __Menu Clicked__
+03/12/2024 12:36:33 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:36:33 AM: INFO: __add new Clicked__
+03/12/2024 12:36:34 AM: INFO: __Adding customer info__
+03/12/2024 12:36:34 AM: INFO: __Added email__
+03/12/2024 12:36:34 AM: INFO: __Added pwrd
+03/12/2024 12:36:34 AM: INFO: __Added name
+03/12/2024 12:36:34 AM: INFO: __Added surname
+03/12/2024 12:36:34 AM: INFO: __Added gender__
+03/12/2024 12:36:34 AM: INFO: __Added date__
+03/12/2024 12:36:34 AM: INFO: __Added company__
+03/12/2024 12:36:34 AM: INFO: __Added vendor__
+03/12/2024 12:36:34 AM: INFO: __Added status
+03/12/2024 12:39:26 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:39:27 AM: INFO: **Login successful**
+03/12/2024 12:39:28 AM: INFO: __Add Customer Test started__
+03/12/2024 12:39:28 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:39:28 AM: INFO: __Menu Clicked__
+03/12/2024 12:39:30 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:39:30 AM: INFO: __add new Clicked__
+03/12/2024 12:39:31 AM: INFO: __Adding customer info__
+03/12/2024 12:39:31 AM: INFO: __Added email__
+03/12/2024 12:39:31 AM: INFO: __Added pwrd
+03/12/2024 12:39:31 AM: INFO: __Added name
+03/12/2024 12:39:31 AM: INFO: __Added surname
+03/12/2024 12:39:31 AM: INFO: __Added gender__
+03/12/2024 12:39:31 AM: INFO: __Added date__
+03/12/2024 12:39:31 AM: INFO: __Added company__
+03/12/2024 12:39:31 AM: INFO: __Added vendor__
+03/12/2024 12:39:31 AM: INFO: __Added status__
+03/12/2024 12:43:30 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:43:31 AM: INFO: **Login successful**
+03/12/2024 12:43:32 AM: INFO: __Add Customer Test started__
+03/12/2024 12:43:32 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:43:32 AM: INFO: __Menu Clicked__
+03/12/2024 12:43:34 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:43:34 AM: INFO: __add new Clicked__
+03/12/2024 12:43:35 AM: INFO: __Adding customer info__
+03/12/2024 12:43:35 AM: INFO: __Added email__
+03/12/2024 12:43:35 AM: INFO: __Added pwrd
+03/12/2024 12:43:35 AM: INFO: __Added name
+03/12/2024 12:43:35 AM: INFO: __Added surname
+03/12/2024 12:43:35 AM: INFO: __Added gender__
+03/12/2024 12:43:35 AM: INFO: __Added date__
+03/12/2024 12:43:35 AM: INFO: __Added company__
+03/12/2024 12:43:35 AM: INFO: __Added vendor__
+03/12/2024 12:43:35 AM: INFO: __Added status__
+03/12/2024 12:46:19 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:46:20 AM: INFO: **Login successful**
+03/12/2024 12:46:21 AM: INFO: __Add Customer Test started__
+03/12/2024 12:46:21 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:46:21 AM: INFO: __Menu Clicked__
+03/12/2024 12:46:23 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:46:23 AM: INFO: __add new Clicked__
+03/12/2024 12:46:24 AM: INFO: __Adding customer info__
+03/12/2024 12:46:24 AM: INFO: __Added email__
+03/12/2024 12:46:24 AM: INFO: __Added pwrd
+03/12/2024 12:46:24 AM: INFO: __Added name
+03/12/2024 12:46:24 AM: INFO: __Added surname
+03/12/2024 12:46:24 AM: INFO: __Added gender__
+03/12/2024 12:46:24 AM: INFO: __Added date__
+03/12/2024 12:46:24 AM: INFO: __Added company__
+03/12/2024 12:46:24 AM: INFO: __Added vendor__
+03/12/2024 12:46:24 AM: INFO: __Added status__
+03/12/2024 12:48:39 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:48:41 AM: INFO: **Login successful**
+03/12/2024 12:48:42 AM: INFO: __Add Customer Test started__
+03/12/2024 12:48:42 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:48:42 AM: INFO: __Menu Clicked__
+03/12/2024 12:48:43 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:48:44 AM: INFO: __add new Clicked__
+03/12/2024 12:48:45 AM: INFO: __Adding customer info__
+03/12/2024 12:48:45 AM: INFO: __Added email__
+03/12/2024 12:48:45 AM: INFO: __Added pwrd
+03/12/2024 12:48:45 AM: INFO: __Added name
+03/12/2024 12:48:45 AM: INFO: __Added surname
+03/12/2024 12:48:45 AM: INFO: __Added gender__
+03/12/2024 12:48:45 AM: INFO: __Added date__
+03/12/2024 12:48:45 AM: INFO: __Added company__
+03/12/2024 12:48:45 AM: INFO: __Added vendor__
+03/12/2024 12:48:45 AM: INFO: __Added status__
+03/12/2024 12:48:45 AM: INFO: __Added comment__
+03/12/2024 12:48:45 AM: INFO: Saving customer info
+03/12/2024 12:48:46 AM: ERROR: New Customer addition Failed
+03/12/2024 12:50:33 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 12:50:35 AM: INFO: **Login successful**
+03/12/2024 12:50:36 AM: INFO: __Add Customer Test started__
+03/12/2024 12:50:36 AM: INFO: __Menu to be Clicked__
+03/12/2024 12:50:36 AM: INFO: __Menu Clicked__
+03/12/2024 12:50:37 AM: INFO: __Menu Item Clicked__
+03/12/2024 12:50:38 AM: INFO: __add new Clicked__
+03/12/2024 12:50:39 AM: INFO: __Adding customer info__
+03/12/2024 12:50:39 AM: INFO: __Added email__
+03/12/2024 12:50:39 AM: INFO: __Added pwrd
+03/12/2024 12:50:39 AM: INFO: __Added name
+03/12/2024 12:50:39 AM: INFO: __Added surname
+03/12/2024 12:50:39 AM: INFO: __Added gender__
+03/12/2024 12:50:39 AM: INFO: __Added date__
+03/12/2024 12:50:39 AM: INFO: __Added company__
+03/12/2024 12:50:39 AM: INFO: __Added vendor__
+03/12/2024 12:50:39 AM: INFO: __Added status__
+03/12/2024 12:50:39 AM: INFO: __Added comment__
+03/12/2024 12:50:39 AM: INFO: Saving customer info
+03/12/2024 12:50:39 AM: INFO: New Customer added
+03/12/2024 01:02:23 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:02:25 AM: INFO: **Login successful**
+03/12/2024 01:02:26 AM: INFO: __Add Customer Test started__
+03/12/2024 01:02:26 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:02:26 AM: INFO: __Menu Clicked__
+03/12/2024 01:02:27 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:02:27 AM: INFO: __add new Clicked__
+03/12/2024 01:02:28 AM: INFO: __Adding customer info__
+03/12/2024 01:02:28 AM: INFO: __Added email__
+03/12/2024 01:02:28 AM: INFO: __Added pwrd
+03/12/2024 01:02:28 AM: INFO: __Added name
+03/12/2024 01:02:29 AM: INFO: __Added surname
+03/12/2024 01:02:29 AM: INFO: __Added gender__
+03/12/2024 01:02:29 AM: INFO: __Added date__
+03/12/2024 01:02:29 AM: INFO: __Added company__
+03/12/2024 01:02:29 AM: INFO: __Added vendor__
+03/12/2024 01:02:29 AM: INFO: __Added status__
+03/12/2024 01:02:29 AM: INFO: __Added comment__
+03/12/2024 01:02:29 AM: INFO: Saving customer info
+03/12/2024 01:10:51 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:10:53 AM: INFO: **Login successful**
+03/12/2024 01:10:54 AM: INFO: __Add Customer Test started__
+03/12/2024 01:10:54 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:10:54 AM: INFO: __Menu Clicked__
+03/12/2024 01:10:55 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:10:56 AM: INFO: __add new Clicked__
+03/12/2024 01:10:57 AM: INFO: __Adding customer info__
+03/12/2024 01:10:57 AM: INFO: __Added email__
+03/12/2024 01:10:57 AM: INFO: __Added pwrd
+03/12/2024 01:10:57 AM: INFO: __Added name
+03/12/2024 01:10:57 AM: INFO: __Added surname
+03/12/2024 01:10:57 AM: INFO: __Added gender__
+03/12/2024 01:10:57 AM: INFO: __Added date__
+03/12/2024 01:10:57 AM: INFO: __Added company__
+03/12/2024 01:10:57 AM: INFO: __Added vendor__
+03/12/2024 01:10:57 AM: INFO: __Added status__
+03/12/2024 01:10:57 AM: INFO: __Added comment__
+03/12/2024 01:10:57 AM: INFO: Saving customer info
+03/12/2024 01:10:58 AM: ERROR: The new Customer addition Failed
+03/12/2024 01:11:31 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:11:33 AM: INFO: **Login successful**
+03/12/2024 01:11:34 AM: INFO: __Add Customer Test started__
+03/12/2024 01:11:34 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:11:34 AM: INFO: __Menu Clicked__
+03/12/2024 01:11:35 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:11:35 AM: INFO: __add new Clicked__
+03/12/2024 01:11:36 AM: INFO: __Adding customer info__
+03/12/2024 01:11:37 AM: INFO: __Added email__
+03/12/2024 01:11:37 AM: INFO: __Added pwrd
+03/12/2024 01:11:37 AM: INFO: __Added name
+03/12/2024 01:11:37 AM: INFO: __Added surname
+03/12/2024 01:11:37 AM: INFO: __Added gender__
+03/12/2024 01:11:37 AM: INFO: __Added date__
+03/12/2024 01:11:37 AM: INFO: __Added company__
+03/12/2024 01:11:37 AM: INFO: __Added vendor__
+03/12/2024 01:11:37 AM: INFO: __Added status__
+03/12/2024 01:11:37 AM: INFO: __Added comment__
+03/12/2024 01:11:37 AM: INFO: Saving customer info
+03/12/2024 01:11:37 AM: ERROR: The new Customer addition Failed
+03/12/2024 01:12:43 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:12:44 AM: INFO: **Login successful**
+03/12/2024 01:12:45 AM: INFO: __Add Customer Test started__
+03/12/2024 01:12:45 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:12:45 AM: INFO: __Menu Clicked__
+03/12/2024 01:12:47 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:12:47 AM: INFO: __add new Clicked__
+03/12/2024 01:12:48 AM: INFO: __Adding customer info__
+03/12/2024 01:12:48 AM: INFO: __Added email__
+03/12/2024 01:12:48 AM: INFO: __Added pwrd
+03/12/2024 01:12:48 AM: INFO: __Added name
+03/12/2024 01:12:48 AM: INFO: __Added surname
+03/12/2024 01:12:48 AM: INFO: __Added gender__
+03/12/2024 01:12:48 AM: INFO: __Added date__
+03/12/2024 01:12:48 AM: INFO: __Added company__
+03/12/2024 01:15:54 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:15:56 AM: INFO: **Login successful**
+03/12/2024 01:15:57 AM: INFO: __Add Customer Test started__
+03/12/2024 01:15:57 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:15:57 AM: INFO: __Menu Clicked__
+03/12/2024 01:15:59 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:15:59 AM: INFO: __add new Clicked__
+03/12/2024 01:16:00 AM: INFO: __Adding customer info__
+03/12/2024 01:16:00 AM: INFO: __Added email__
+03/12/2024 01:16:00 AM: INFO: __Added pwrd
+03/12/2024 01:16:00 AM: INFO: __Added name
+03/12/2024 01:16:00 AM: INFO: __Added surname
+03/12/2024 01:16:00 AM: INFO: __Added gender__
+03/12/2024 01:16:00 AM: INFO: __Added date__
+03/12/2024 01:16:00 AM: INFO: __Added company__
+03/12/2024 01:22:01 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:22:03 AM: INFO: **Login successful**
+03/12/2024 01:22:04 AM: INFO: __Add Customer Test started__
+03/12/2024 01:22:04 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:22:04 AM: INFO: __Menu Clicked__
+03/12/2024 01:22:05 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:22:05 AM: INFO: __add new Clicked__
+03/12/2024 01:22:06 AM: INFO: __Adding customer info__
+03/12/2024 01:22:07 AM: INFO: __Added email__
+03/12/2024 01:22:07 AM: INFO: __Added pwrd
+03/12/2024 01:22:07 AM: INFO: __Added name
+03/12/2024 01:22:07 AM: INFO: __Added surname
+03/12/2024 01:22:07 AM: INFO: __Added gender__
+03/12/2024 01:22:07 AM: INFO: __Added date__
+03/12/2024 01:22:08 AM: INFO: __Added company__
+03/12/2024 01:36:27 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:36:29 AM: INFO: **Login successful**
+03/12/2024 01:36:30 AM: INFO: __Add Customer Test started__
+03/12/2024 01:36:30 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:36:30 AM: INFO: __Menu Clicked__
+03/12/2024 01:36:31 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:36:32 AM: INFO: __add new Clicked__
+03/12/2024 01:36:33 AM: INFO: __Adding customer info__
+03/12/2024 01:36:33 AM: INFO: __Added email__
+03/12/2024 01:36:33 AM: INFO: __Added pwrd
+03/12/2024 01:36:33 AM: INFO: __Added name
+03/12/2024 01:36:33 AM: INFO: __Added surname
+03/12/2024 01:36:33 AM: INFO: __Added gender__
+03/12/2024 01:36:33 AM: INFO: __Added date__
+03/12/2024 01:36:34 AM: INFO: __Added company__
+03/12/2024 01:36:35 AM: INFO: __Added role__
+03/12/2024 01:36:35 AM: INFO: __Added vendor__
+03/12/2024 01:36:35 AM: INFO: __Added status__
+03/12/2024 01:36:35 AM: INFO: __Added comment__
+03/12/2024 01:36:35 AM: INFO: Saving customer info
+03/12/2024 01:36:36 AM: ERROR: The new Customer addition Failed
+03/12/2024 01:37:29 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:37:30 AM: INFO: **Login successful**
+03/12/2024 01:37:31 AM: INFO: __Add Customer Test started__
+03/12/2024 01:37:31 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:37:31 AM: INFO: __Menu Clicked__
+03/12/2024 01:37:32 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:37:33 AM: INFO: __add new Clicked__
+03/12/2024 01:37:34 AM: INFO: __Adding customer info__
+03/12/2024 01:37:34 AM: INFO: __Added email__
+03/12/2024 01:37:34 AM: INFO: __Added pwrd
+03/12/2024 01:37:34 AM: INFO: __Added name
+03/12/2024 01:37:34 AM: INFO: __Added surname
+03/12/2024 01:37:34 AM: INFO: __Added gender__
+03/12/2024 01:37:34 AM: INFO: __Added date__
+03/12/2024 01:37:35 AM: INFO: __Added company__
+03/12/2024 01:37:48 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:37:49 AM: INFO: **Login successful**
+03/12/2024 01:37:50 AM: INFO: __Add Customer Test started__
+03/12/2024 01:37:50 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:37:50 AM: INFO: __Menu Clicked__
+03/12/2024 01:37:52 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:37:52 AM: INFO: __add new Clicked__
+03/12/2024 01:37:53 AM: INFO: __Adding customer info__
+03/12/2024 01:37:53 AM: INFO: __Added email__
+03/12/2024 01:37:53 AM: INFO: __Added pwrd
+03/12/2024 01:37:53 AM: INFO: __Added name
+03/12/2024 01:37:53 AM: INFO: __Added surname
+03/12/2024 01:37:53 AM: INFO: __Added gender__
+03/12/2024 01:37:53 AM: INFO: __Added date__
+03/12/2024 01:37:54 AM: INFO: __Added company__
+03/12/2024 01:37:56 AM: INFO: __Added role__
+03/12/2024 01:37:56 AM: INFO: __Added vendor__
+03/12/2024 01:37:56 AM: INFO: __Added status__
+03/12/2024 01:37:56 AM: INFO: __Added comment__
+03/12/2024 01:37:56 AM: INFO: Saving customer info
+03/12/2024 01:37:56 AM: ERROR: The new Customer addition Failed
+03/12/2024 01:38:30 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:38:32 AM: INFO: **Login successful**
+03/12/2024 01:38:33 AM: INFO: __Add Customer Test started__
+03/12/2024 01:38:33 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:38:33 AM: INFO: __Menu Clicked__
+03/12/2024 01:38:35 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:38:35 AM: INFO: __add new Clicked__
+03/12/2024 01:38:36 AM: INFO: __Adding customer info__
+03/12/2024 01:38:36 AM: INFO: __Added email__
+03/12/2024 01:38:36 AM: INFO: __Added pwrd
+03/12/2024 01:38:36 AM: INFO: __Added name
+03/12/2024 01:38:36 AM: INFO: __Added surname
+03/12/2024 01:38:36 AM: INFO: __Added gender__
+03/12/2024 01:38:36 AM: INFO: __Added date__
+03/12/2024 01:38:37 AM: INFO: __Added company__
+03/12/2024 01:38:38 AM: INFO: __Added role__
+03/12/2024 01:38:38 AM: INFO: __Added vendor__
+03/12/2024 01:38:38 AM: INFO: __Added status__
+03/12/2024 01:38:38 AM: INFO: __Added comment__
+03/12/2024 01:38:39 AM: INFO: Saving customer info
+03/12/2024 01:38:39 AM: INFO: New Customer added
+03/12/2024 01:38:58 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:38:59 AM: INFO: **Login successful**
+03/12/2024 01:39:00 AM: INFO: __Add Customer Test started__
+03/12/2024 01:39:00 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:39:00 AM: INFO: __Menu Clicked__
+03/12/2024 01:39:02 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:39:02 AM: INFO: __add new Clicked__
+03/12/2024 01:39:03 AM: INFO: __Adding customer info__
+03/12/2024 01:39:12 AM: INFO: __Added email__
+03/12/2024 01:39:13 AM: INFO: __Added pwrd
+03/12/2024 01:39:13 AM: INFO: __Added name
+03/12/2024 01:39:13 AM: INFO: __Added surname
+03/12/2024 01:39:13 AM: INFO: __Added gender__
+03/12/2024 01:39:13 AM: INFO: __Added date__
+03/12/2024 01:39:14 AM: INFO: __Added company__
+03/12/2024 01:39:15 AM: INFO: __Added role__
+03/12/2024 01:39:15 AM: INFO: __Added vendor__
+03/12/2024 01:39:15 AM: INFO: __Added status__
+03/12/2024 01:39:15 AM: INFO: __Added comment__
+03/12/2024 01:39:15 AM: INFO: Saving customer info
+03/12/2024 01:39:15 AM: INFO: New Customer added
+03/12/2024 01:40:23 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:40:24 AM: INFO: **Login successful**
+03/12/2024 01:40:25 AM: INFO: __Add Customer Test started__
+03/12/2024 01:40:25 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:40:25 AM: INFO: __Menu Clicked__
+03/12/2024 01:40:27 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:40:27 AM: INFO: __add new Clicked__
+03/12/2024 01:40:28 AM: INFO: __Adding customer info__
+03/12/2024 01:40:28 AM: INFO: __Added email__
+03/12/2024 01:40:28 AM: INFO: __Added pwrd
+03/12/2024 01:40:28 AM: INFO: __Added name
+03/12/2024 01:40:28 AM: INFO: __Added surname
+03/12/2024 01:40:28 AM: INFO: __Added gender__
+03/12/2024 01:40:28 AM: INFO: __Added date__
+03/12/2024 01:40:29 AM: INFO: __Added company__
+03/12/2024 01:42:42 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:42:44 AM: INFO: **Login successful**
+03/12/2024 01:42:45 AM: INFO: __Add Customer Test started__
+03/12/2024 01:42:45 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:42:45 AM: INFO: __Menu Clicked__
+03/12/2024 01:42:46 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:42:47 AM: INFO: __add new Clicked__
+03/12/2024 01:42:48 AM: INFO: __Adding customer info__
+03/12/2024 01:42:48 AM: INFO: __Added email__
+03/12/2024 01:42:48 AM: INFO: __Added pwrd
+03/12/2024 01:42:48 AM: INFO: __Added name
+03/12/2024 01:42:48 AM: INFO: __Added surname
+03/12/2024 01:42:48 AM: INFO: __Added gender__
+03/12/2024 01:42:48 AM: INFO: __Added date__
+03/12/2024 01:42:49 AM: INFO: __Added company__
+03/12/2024 01:42:50 AM: INFO: __Added role__
+03/12/2024 01:42:50 AM: INFO: __Added vendor__
+03/12/2024 01:42:50 AM: INFO: __Added status__
+03/12/2024 01:42:50 AM: INFO: __Added comment__
+03/12/2024 01:42:50 AM: INFO: Saving customer info
+03/12/2024 01:42:51 AM: ERROR: The new Customer addition Failed
+03/12/2024 01:44:52 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:44:54 AM: INFO: **Login successful**
+03/12/2024 01:44:55 AM: INFO: __Add Customer Test started__
+03/12/2024 01:44:55 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:44:55 AM: INFO: __Menu Clicked__
+03/12/2024 01:44:56 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:44:56 AM: INFO: __add new Clicked__
+03/12/2024 01:44:57 AM: INFO: __Adding customer info__
+03/12/2024 01:44:57 AM: INFO: __Added email__
+03/12/2024 01:44:57 AM: INFO: __Added pwrd
+03/12/2024 01:44:58 AM: INFO: __Added name
+03/12/2024 01:44:58 AM: INFO: __Added surname
+03/12/2024 01:44:58 AM: INFO: __Added gender__
+03/12/2024 01:44:58 AM: INFO: __Added date__
+03/12/2024 01:44:59 AM: INFO: __Added company__
+03/12/2024 01:45:00 AM: INFO: __Added role__
+03/12/2024 01:45:00 AM: INFO: __Added vendor__
+03/12/2024 01:45:00 AM: INFO: __Added status__
+03/12/2024 01:45:00 AM: INFO: __Added comment__
+03/12/2024 01:45:00 AM: INFO: Saving customer info
+03/12/2024 01:45:01 AM: ERROR: The new Customer addition Failed
+03/12/2024 01:45:47 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:45:49 AM: INFO: **Login successful**
+03/12/2024 01:45:50 AM: INFO: __Add Customer Test started__
+03/12/2024 01:45:50 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:45:50 AM: INFO: __Menu Clicked__
+03/12/2024 01:45:52 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:45:52 AM: INFO: __add new Clicked__
+03/12/2024 01:45:53 AM: INFO: __Adding customer info__
+03/12/2024 01:45:53 AM: INFO: __Added email__
+03/12/2024 01:45:53 AM: INFO: __Added pwrd
+03/12/2024 01:45:53 AM: INFO: __Added name
+03/12/2024 01:45:53 AM: INFO: __Added surname
+03/12/2024 01:45:53 AM: INFO: __Added gender__
+03/12/2024 01:45:53 AM: INFO: __Added date__
+03/12/2024 01:45:54 AM: INFO: __Added company__
+03/12/2024 01:45:55 AM: INFO: __Added role__
+03/12/2024 01:45:55 AM: INFO: __Added vendor__
+03/12/2024 01:45:55 AM: INFO: __Added status__
+03/12/2024 01:45:55 AM: INFO: __Added comment__
+03/12/2024 01:45:56 AM: INFO: Saving customer info
+03/12/2024 01:45:57 AM: INFO: New Customer added
+03/12/2024 01:47:07 AM: INFO: **Test003 : Verifying Add Customer functionality
+03/12/2024 01:47:09 AM: INFO: **Login successful**
+03/12/2024 01:47:10 AM: INFO: __Add Customer Test started__
+03/12/2024 01:47:10 AM: INFO: __Menu to be Clicked__
+03/12/2024 01:47:10 AM: INFO: __Menu Clicked__
+03/12/2024 01:47:11 AM: INFO: __Menu Item Clicked__
+03/12/2024 01:47:11 AM: INFO: __add new Clicked__
+03/12/2024 01:47:12 AM: INFO: __Adding customer info__
+03/12/2024 01:47:12 AM: INFO: __Added email__
+03/12/2024 01:47:12 AM: INFO: __Added pwrd
+03/12/2024 01:47:13 AM: INFO: __Added name
+03/12/2024 01:47:13 AM: INFO: __Added surname
+03/12/2024 01:47:13 AM: INFO: __Added gender__
+03/12/2024 01:47:13 AM: INFO: __Added date__
+03/12/2024 01:47:14 AM: INFO: __Added company__
+03/12/2024 01:47:15 AM: INFO: __Added role__
+03/12/2024 01:47:15 AM: INFO: __Added vendor__
+03/12/2024 01:47:15 AM: INFO: __Added status__
+03/12/2024 01:47:15 AM: INFO: __Added comment__
+03/12/2024 01:47:15 AM: INFO: Saving customer info
+03/12/2024 01:47:16 AM: INFO: New Customer added
+03/12/2024 02:56:30 PM: INFO: **Test002 : Verify user is able to login successfully**
+03/12/2024 02:56:30 PM: INFO: **Test002 : Verify user is able to login successfully**
+03/12/2024 02:56:33 PM: INFO: **Passed**
+03/12/2024 02:56:33 PM: INFO: **Passed**
