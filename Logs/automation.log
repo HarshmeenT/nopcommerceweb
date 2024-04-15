@@ -852,3 +852,8 @@
 03/12/2024 02:56:30 PM: INFO: **Test002 : Verify user is able to login successfully**
 03/12/2024 02:56:33 PM: INFO: **Passed**
 03/12/2024 02:56:33 PM: INFO: **Passed**
+04/15/2024 02:15:24 PM: INFO: #######TC#1########
+04/15/2024 02:15:24 PM: INFO: **Test001 : Verifying home page title**
+04/15/2024 02:15:26 PM: INFO: **Passed**
+04/15/2024 02:15:27 PM: INFO: **Test002 : Verify user is able to login successfully**
+04/15/2024 02:15:30 PM: INFO: **Passed**

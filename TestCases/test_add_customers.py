@@ -88,4 +88,4 @@ class TestAddCustomer_002:
             self.logger.error("The new Customer addition Failed")
             assert True == False
 
-        #self.driver.close()
+        self.driver.close()

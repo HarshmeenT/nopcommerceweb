@@ -3,7 +3,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
 class Login:
     #Adding web elements/locators to be interacted within this functionality
     email_locator_id = "Email"

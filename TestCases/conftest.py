@@ -22,8 +22,7 @@ def pytest_addoption(parser):
 def browser(request):  # this will return the browser value to set up method CLI hooks
     return request.config.getoption("--browser")
 
-######Pytest HTML Report###
-
+######Pytest HTML Report- using ptest-html addon###
 #This is the hook for adding environment info to HTML reports
 def pytest_configure(config):
     metadata = config.pluginmanager.getplugin("metadata")
@@ -33,7 +32,6 @@ def pytest_configure(config):
         config.stash[metadata_key]['Module Name'] = 'Customers'
         config.stash[metadata_key]['Tester'] = 'HT'
 
-#This is the hook for adding environment info to HTML reports
 @pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
         metadata.pop("JAVA_HOME", None)
